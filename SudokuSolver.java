@@ -188,7 +188,7 @@ public class SudokuSolver extends JFrame {
             }
         });
         try {
-            Thread.sleep(200); // Adjust the delay as needed
+            Thread.sleep(50); // Adjust the delay as needed
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
